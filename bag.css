@@ -71,6 +71,9 @@
     color: rgb(255, 255, 255);
     cursor: pointer;
   }
+  .btn-place-order:hover{
+    background-color: rgb(235, 34, 81);
+  }
   
   .bag-item-container {
     margin-bottom: 8px;
